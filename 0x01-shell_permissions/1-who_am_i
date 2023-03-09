@@ -1,2 +1,2 @@
-#!/bin/bas
-1-whoami
+#!/bin/bash
+whoami
